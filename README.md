@@ -1,6 +1,6 @@
 Installation
 
-1. Install jq:
+1. Install jq:\n
    sudo apt install jq -y
 
 2. Clone the repository:
