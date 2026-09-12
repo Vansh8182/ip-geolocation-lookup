@@ -27,3 +27,23 @@ chmod +x ip-lookup.sh
 5. Run it:
 ```
 ./ip-lookup.sh
+```
+
+## Usage
+
+When prompted, enter any IP address:
+
+```
+Enter IP address: 8.8.8.8
+CITY: Ashburn
+REGION: Virginia
+COUNTRY: United States
+ZIP: 20149
+LAT: 39.03
+LON: -77.5
+TIMEZONE: America/New_York
+```
+
+## License
+
+This project is licensed under the MIT License.
